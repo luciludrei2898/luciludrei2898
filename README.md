@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm Lucía Sanchez 👋</h1>
 
-<p align="center"> <img width=1000px heigth=1500px src="https://github.com/luciludrei2898/luciludrei2898/main/cabecera-github.png"  /> </p>
+<p align="center"> <img width=1000px heigth=1500px src="https://github.com/luciludrei2898/luciludrei2898/blob/main/cabecera-github.png"/> </p>
 
 </div>
 
