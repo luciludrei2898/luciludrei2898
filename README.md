@@ -1,7 +1,9 @@
 <div align="center">
 <h1 align="center">Hello, I'm Lucía Sanchez 👋</h1>
 </div>
+
 <h1 align="center">About me 🙋</h1>
+
 <h4 align="center">
 
 Multiplatform developer 🧑‍💻
@@ -53,7 +55,9 @@ Expert in graphic design 🖌️ and digital marketing 🛍️
 </div>
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
+<div align="center">
+<h1 align="center">⚙️ &nbsp;GitHub Analytics</h1>
+</div>
 
 <p align="center">
 <a href="https://github.com/luciludrei2898">
