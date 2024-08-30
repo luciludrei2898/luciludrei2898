@@ -17,6 +17,7 @@ Skills: proactive, versatile and hard-working 😄
 <br>
 Expert in graphic design 🖌️ and digital marketing 🛍️
 <br>
+You can contact me at luciasanc98@gmail.com 📧
 </h4>
 </div>
 
