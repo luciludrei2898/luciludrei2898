@@ -21,9 +21,6 @@ You can contact me at luciasanc98@gmail.com 📧
 </h4>
 </div>
 
-
-<br>
-
 <h1 align="center">Some <strong>projects</strong>  🖥️ </h1>
 
 <table>
