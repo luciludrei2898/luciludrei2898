@@ -44,7 +44,7 @@ You can contact me at luciasanc98@gmail.com 📧
 <a href="https://github.com/luciludrei2898/Foro" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-</p>Web page programmed in CSS and Java Script on a Forum. Possibility to register, log in and log out.  Non-administrator user actions: make publications, delete your own publications, modify your data. Administrator user actions: full control..</p>
+</p>Code CSS and Java Script. Non-administrator user actions: make and delete your own publications, modify your data. Administrator user actions: full control.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
