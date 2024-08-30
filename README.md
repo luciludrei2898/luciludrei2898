@@ -32,7 +32,7 @@ You can contact me at luciasanc98@gmail.com 📧
 <a href="https://github.com/luciludrei2898/app-restaurant-java" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<p>Java Code. Options to view products, generate orders and print placed orders.</p>
+<p>Java Code. Options to view products, generate orders and print placed orders. No built-in database and graphical interface.</p>
 </div>
                                                                                       
 </td>
@@ -40,7 +40,7 @@ You can contact me at luciasanc98@gmail.com 📧
 <td width="50%">
                <br>
 <h3 align="center">Forum Website</h3>
-<div align="center">                                       
+<div align="center">
 <a href="https://github.com/luciludrei2898/Foro" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
